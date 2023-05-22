@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there , i'm Agustin Pfarherr👋
 
-<!--
-**Lylhium/Lylhium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repositories.
+i'm an React Front end Developer.
 
-Here are some ideas to get you started:
+Skills: 
+Programming languages: React Js , React Native, JavaScript , TypeScript , HTML , CSS ,
+Databases: MongoDB
+APIs: REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Contact Me
+If you need to contact me you can do it through LinkedIn or my Portfolio: 
+https://lylhium.github.io/PortFolio-Agustin/
+
+Thank you for visting my Github.
