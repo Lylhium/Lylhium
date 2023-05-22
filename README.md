@@ -8,7 +8,7 @@ Programming languages: React Js , React Native, JavaScript , TypeScript , HTML ,
 Databases: MongoDB
 APIs: REST
 
-##Contact Me
+Contact Me
 If you need to contact me you can do it through LinkedIn or my Portfolio: 
 https://lylhium.github.io/PortFolio-Agustin/
 
