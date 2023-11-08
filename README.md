@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Agustin Pfarherr!</h1>
 <h3 align="center">I'm a Junior React Front-end Developer.</h3>
 
-- 🌱 I’m currently learning **Back-end, .NET** 
+- 🌱 I’m currently learning **dot NET** 
 
 - 👨‍💻 All of my projects are available at [https://lylhium.github.io/PortFolio-Agustin/](https://lylhium.github.io/PortFolio-Agustin/)
 
