@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Agustin Pfarherr!</h1>
+<h1 align="center">Hi There, I'm Agustín Pfarherr!</h1>
 <h3 align="center">I'm a Junior React Front-end Developer.</h3>
 
 - 🌱 I’m currently learning **dot NET** 
