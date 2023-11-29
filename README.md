@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **dot NET** 
 
-- 👨‍💻 All of my projects are available at [https://agustinpfarherr.vercel.app/)
+- 👨‍💻 All of my projects are available at https://agustinpfarherr.vercel.app
 
 - 📫 Contact Me **agustinpfarherr@gmail.com**
 
